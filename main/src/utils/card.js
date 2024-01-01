@@ -59,9 +59,9 @@ export const galContestants = [
     img: "/gj.jpg",
     name: "Heather Layce",
     country: "USA",
-    bio: "Chris brings an elegant and timeless beauty to the modeling world. His portfolio includes high-end fashion and editorial work.",
+    bio: "Heather brings an elegant and timeless beauty to the modeling world. His portfolio includes high-end fashion and editorial work.",
     about:
-      "Chris is fluent in multiple languages and is passionate about promoting cultural exchange in the fashion industry.",
+      "Heather is fluent in multiple languages and is passionate about promoting cultural exchange in the fashion industry.",
     cn: "big",
     id: "ci388",
   },
