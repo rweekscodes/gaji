@@ -57,7 +57,7 @@ export const galContestants = [
   },
   {
     img: "/gj.jpg",
-    name: "Chris Newman",
+    name: "Heather Layce",
     country: "USA",
     bio: "Chris brings an elegant and timeless beauty to the modeling world. His portfolio includes high-end fashion and editorial work.",
     about:
